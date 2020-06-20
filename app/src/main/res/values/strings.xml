@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My1stYear</string>
+    <string name="Anniversary">Welcome IIITian</string>
+    <string name="college">college</string>
+    <string name="Physics">Physics</string>
+    <string name="Lal">Linear Algebra</string>
+    <string name="itp">Introduction to Programming</string>
+    <string name="FEE">Fundamentals of Electrical Electronic Engineering</string>
+    <string name="POm">Principles of Management</string>
+    <string name="pfc">Professional Communication</string>
+    <string name="sem1">semester - I</string>
+    <string name="sem1pic">sem1pic</string>
+    <string name="todo">TODO</string>
+    <string name="Study">Study Resources</string>
+    <string name="books">Books and References</string>
+    <string name="Notes">Lecture Notes</string>
+    <string name="Youtube">Video Lectures</string>
+    <string name="Questions">Previous Question Papers</string>
+</resources>
